@@ -1,0 +1,9 @@
+{
+  "name": "element-traverse",
+  "repo": "enricomarino/element-traverse",
+  "description": "traverse, plugin for element",
+  "version": "0.0.1",
+  "keywords": ["element", "traverse"],
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
